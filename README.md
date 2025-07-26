@@ -3,7 +3,9 @@
 _The AI Resume Analyzer is a modern web application that empowers job seekers to enhance their resumes with AI-driven insights, seamlessly integrating authentication, resume storage, and intelligent job-matching capabilities._
 _Built with React, TypeScript, and Puter.js, it provides ATS scores and personalized feedback to optimize resumes for job listings._
 
-[Site](https://ai-resume-analyzer.vercel.app/)
+[Site](https://ai-resume-analyzer-sxidsvit.vercel.app/)
+
+---
 
 ### Features
 
@@ -83,7 +85,7 @@ Connect with the project maintainer:
 
 [linkedin]: https://www.linkedin.com/in/sergiy-antonyuk/
 
-## 🙏 Acknowledgements
+#### 🙏 Acknowledgements
 
 A heartfelt thank you to [JS Mastery](https://www.youtube.com/@javascriptmastery) for their inspiring tutorials and invaluable contributions to the developer community.
 
